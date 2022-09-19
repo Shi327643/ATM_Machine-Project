@@ -1,0 +1,24 @@
+C:\.netproject\WPF Project\BankDataAccessLibrary\BankDataAccessLibrary\bin\Debug\BankDataAccessLibrary.dll
+C:\.netproject\WPF Project\BankDataAccessLibrary\BankDataAccessLibrary\bin\Debug\BankDataAccessLibrary.pdb
+C:\.netproject\WPF Project\BankDataAccessLibrary\BankDataAccessLibrary\obj\Debug\BankDataAccessLibrary.csproj.AssemblyReference.cache
+C:\.netproject\WPF Project\BankDataAccessLibrary\BankDataAccessLibrary\obj\Debug\BankDataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\.netproject\WPF Project\BankDataAccessLibrary\BankDataAccessLibrary\obj\Debug\BankDataAccessLibrary.dll
+C:\.netproject\WPF Project\BankDataAccessLibrary\BankDataAccessLibrary\obj\Debug\BankDataAccessLibrary.pdb
+C:\.netproject\BankDataAccessLibrary\BankDataAccessLibrary\bin\Debug\BankDataAccessLibrary.dll
+C:\.netproject\BankDataAccessLibrary\BankDataAccessLibrary\bin\Debug\BankDataAccessLibrary.pdb
+C:\.netproject\BankDataAccessLibrary\BankDataAccessLibrary\bin\Debug\MySql.Data.dll
+C:\.netproject\BankDataAccessLibrary\BankDataAccessLibrary\bin\Debug\Google.Protobuf.dll
+C:\.netproject\BankDataAccessLibrary\BankDataAccessLibrary\bin\Debug\ZstdNet.dll
+C:\.netproject\BankDataAccessLibrary\BankDataAccessLibrary\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\.netproject\BankDataAccessLibrary\BankDataAccessLibrary\bin\Debug\BouncyCastle.Crypto.dll
+C:\.netproject\BankDataAccessLibrary\BankDataAccessLibrary\bin\Debug\Ubiety.Dns.Core.dll
+C:\.netproject\BankDataAccessLibrary\BankDataAccessLibrary\bin\Debug\System.Memory.dll
+C:\.netproject\BankDataAccessLibrary\BankDataAccessLibrary\bin\Debug\System.Buffers.dll
+C:\.netproject\BankDataAccessLibrary\BankDataAccessLibrary\bin\Debug\K4os.Compression.LZ4.dll
+C:\.netproject\BankDataAccessLibrary\BankDataAccessLibrary\bin\Debug\K4os.Hash.xxHash.dll
+C:\.netproject\BankDataAccessLibrary\BankDataAccessLibrary\bin\Debug\MySql.Data.xml
+C:\.netproject\BankDataAccessLibrary\BankDataAccessLibrary\obj\Debug\BankDataAccessLibrary.csproj.AssemblyReference.cache
+C:\.netproject\BankDataAccessLibrary\BankDataAccessLibrary\obj\Debug\BankDataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\.netproject\BankDataAccessLibrary\BankDataAccessLibrary\obj\Debug\BankDataAccessLibrary.csproj.CopyComplete
+C:\.netproject\BankDataAccessLibrary\BankDataAccessLibrary\obj\Debug\BankDataAccessLibrary.dll
+C:\.netproject\BankDataAccessLibrary\BankDataAccessLibrary\obj\Debug\BankDataAccessLibrary.pdb
